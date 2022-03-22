@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Desktop/C-12_Trex_2.5-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C-12_Trex_2.5-main"
+	}
+}
